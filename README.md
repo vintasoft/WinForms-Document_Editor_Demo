@@ -31,7 +31,7 @@ This C# project uses <a href="https://www.vintasoft.com/vsimaging-dotnet-index.h
    dotnet build DocumentEditorDemo.Net10.csproj
    ```
 
-4. Run compiled application and try to view and annotate images and documents.
+4. Run compiled application and try to edit new or existing DOCX document.
 
 
 ## Documentation
