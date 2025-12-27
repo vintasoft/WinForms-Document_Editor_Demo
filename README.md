@@ -1,6 +1,6 @@
 # VintaSoft WinForms Document Editor Demo
 
-This C# project uses <a href="https://www.vintasoft.com/vsimaging-dotnet-index.html">VintaSoft Imaging .NET SDK</a> and demonstrates how to edit new or existing DOCX document in WinForms:
+This C# project uses <a href="https://www.vintasoft.com/vsimaging-dotnet-index.html">VintaSoft Imaging .NET SDK</a> and demonstrates how to edit new or existing DOCX document in WinForms application:
 * Create a new or open an existing DOCX document in document editor control
 * Display and print document
 * Add/change/delete text content in document
